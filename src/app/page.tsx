@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="text-md">
       <main>
-        Hello there! Version 4.0
+        Hello there! Version 5.0
         </main>
     </div>
   );
